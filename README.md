@@ -3,7 +3,7 @@
 - Recognize whether eye is opened or closed on image
 - Test on video file
 
-![result.png](https://github.com/kairess/blink_detector/raw/master/videos/result.gif)
+![result.png](https://github.com/kairess/eye_blink_detector/raw/master/videos/result.gif)
 
 ## Dependencies
 - Python 3+
