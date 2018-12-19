@@ -3,7 +3,8 @@
 - Recognize whether eye is opened or closed on image
 - Test on video file
 
-**Click image to see [demo video](https://youtu.be/dJjzTo8_x3c)!**
+**Click image to see [demo video](https://youtu.be/dJjzTo8_x3c)!**  
+
 [![result.png](https://github.com/kairess/eye_blink_detector/raw/master/videos/result.gif)](https://youtu.be/dJjzTo8_x3c)
 
 ## Dependencies
